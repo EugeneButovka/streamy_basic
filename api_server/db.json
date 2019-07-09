@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "great stream",
+      "id": 1
+    },
+    {
+      "title": "other stream",
+      "description": "some stream",
+      "id": 2
+    },
+    {
+      "title": "prog nav",
+      "description": "hihi",
+      "id": 6
+    },
+    {
+      "title": "me streaming comp reuse",
+      "description": "watch mesdf",
+      "id": 7
+    }
+  ]
+}
